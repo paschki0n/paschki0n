@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
-
 # Jörg Paschke
 I'm Jörg from Germany.
 I share here the code I'm using on my HomeLab
